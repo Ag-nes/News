@@ -36,7 +36,7 @@ https://github.com//news-app
 * Open Terminal {Ctrl+Alt+T}
 
 ```
-$git clone https://github.com/A-gnes/news-app
+$git clone https://github.com/A-gnes/News
 ```
 ```
 $cd news-app
