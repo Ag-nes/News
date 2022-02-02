@@ -71,5 +71,5 @@ If you find a bug, kindly feel free to comment an issue here and inlcude their c
 
 ## License
 * *MIT License:*
-* Copyright (c) 2022**AgnesNafula**
+* Copyright (c) 2022 **AgnesNafula**
 
