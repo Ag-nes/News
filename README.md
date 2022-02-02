@@ -5,15 +5,10 @@
  Miss Powers
 
  ## Description
-This is a flask application that lists and previews news articles from various sources using the NEWS API.
-
-## Screenshot images
-<img src="./app/static/images/home1.png">
-<img src="./app/static/images/bs.png">
-<img src="./app/static/images/02.png">
+This is an application which allows users to select a news source and see all news articles from the selected news source in the application.
 
 ## Live page
-https://github.com//news-app
+git@github.com:Ag-nes/News.git
 
 ## Behavior Driven Development (BDD)
 | Behaviour | Input |Output |
@@ -73,4 +68,8 @@ If you find a bug, kindly feel free to comment an issue here and inlcude their c
  Feel free to contact me in case of any issue or questions, ideas and concern towards the same.
  * Contact Number:+254790279917
  * E-Mail: faithagnes2@gmail.com.
+
+## License
+* *MIT License:*
+* Copyright (c) 2022**AgnesNafula**
 
