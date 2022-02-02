@@ -31,7 +31,7 @@ git@github.com:Ag-nes/News.git
 * Open Terminal {Ctrl+Alt+T}
 
 ```
-$git clone https://github.com/A-gnes/News
+$git clone git@github.com:Ag-nes/News.git
 ```
 ```
 $cd news-app
