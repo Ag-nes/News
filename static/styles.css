@@ -1,0 +1,30 @@
+.main {
+    flex: 1 1 0;
+    display: flex;
+}
+.container-fluid {
+  display: flex;
+}
+.col-9 {
+  overflow-y: auto;
+  height: 90vh;
+}
+
+/* navbar css */
+.badge-info{
+    font-weight: 900;
+    color: greenyellow;
+  }
+  navbar-nav{
+    padding-left: 340px;
+  }
+
+  .card-header{
+      color: blue
+  }
+
+  #home{
+      background-repeat: no-repeat;
+      background-position: fixed;
+      background-color: brown;
+  }
