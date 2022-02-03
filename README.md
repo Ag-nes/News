@@ -8,7 +8,7 @@
 This is an application which allows users to select a news source and see all news articles from the selected news source in the application.
 
 ## Live page
-git@github.com:Ag-nes/News.git
+https://nafula-reports.herokuapp.com/
 
 ## Behavior Driven Development (BDD)
 | Behaviour | Input |Output |
